@@ -1,0 +1,197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 009e2fb2f6170c540bf3ccb0df11f741
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: b8243e0fb6f3eef4db8cd1c8fb894e1a
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic01.unity
+    guid: bd663cf4c8032554d8f59d55d4256b23
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic02.unity
+    guid: 672c714bbdbea8b4a9e9b9bd2e729a40
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic03.unity
+    guid: 605888778c2957f41955a0d8c511a09e
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic04.unity
+    guid: 2f76bbe9aa70b10489cb9d5ae28a3da7
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic05.unity
+    guid: c430b5eb8d1c2334b9cbbc0d17316614
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic06.unity
+    guid: f705d00c807e86349b4d0f90d4a00438
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic07.unity
+    guid: 1b07d0c68bd0b6c4fa1754dc46d247e0
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic08.unity
+    guid: 63311845fe431e147b3647287b8436e4
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic09.unity
+    guid: 9035fa19882ebdf40a9a22c79ac28064
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic010.unity
+    guid: 296c205248e198d43ae9d2e155035d43
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic011.unity
+    guid: 7170450839704c344bcdcfd993751b9d
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic012.unity
+    guid: 959ed8042183cf74daa56455a65e3d23
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic013.unity
+    guid: 47000748ee399e946ab234a82a81ceae
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic014.unity
+    guid: 681b780a78493134bb86b75e84c5b03b
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic015.unity
+    guid: 3675873cbb8d72a4c9db133bf3076687
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic016.unity
+    guid: 263725d62c6a66a4cb1e10db00943c39
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic017.unity
+    guid: 21ab2d3610654bc4c87d49afed627075
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic018.unity
+    guid: 45e63e08b1f76c946afa713c8b1bb415
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic019.unity
+    guid: aa294a72947d20d4e8321efd97b7b34c
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic020.unity
+    guid: c17a4abd858006a4994bd398ab977c8f
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic021.unity
+    guid: bbc4ed907c3821e4d91b7b0f331ce962
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic022.unity
+    guid: b1c74fd8807bc104cb75c7dc5280b7dd
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic023.unity
+    guid: 403c0a697b70b7548a558fb65bff58a9
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic024.unity
+    guid: 8c92c82aa34bbbc44b6a54a4b50ecac5
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic025.unity
+    guid: 348b6804bfa655c4ca37886edaaabee8
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic026.unity
+    guid: ad3382585f5d9d04fa2af5af1c27e114
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic027.unity
+    guid: 8ad818232bc32a64facf2d46a8fc0743
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic028.unity
+    guid: 5aef5f65f4883dc499d5d6a57228154a
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic029.unity
+    guid: 163aae4e0463b4b4d84b0cdb3beaef33
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic030.unity
+    guid: 5b846c99f8eba8d4f8b94bd77e45b18c
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic031.unity
+    guid: 13a14e7ceedea794ca1ea9a911961601
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic032.unity
+    guid: ad0ef834ee7550341ae27a9000d4d498
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic033.unity
+    guid: 80e30256959c2c743ae6e60348745d91
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic034.unity
+    guid: 55ab10882df820e44a804ee1a25353bd
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic035.unity
+    guid: 2f2d47587d239564fb40ff4c2d37ff85
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic036.unity
+    guid: 26e6b4ba629ac2c4f91950e2f6eee268
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic037.unity
+    guid: 9b0d516c017f2cb40b0f91afa3c7a1b0
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic038.unity
+    guid: 7e2147179b1526b408c85234afc10972
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic039.unity
+    guid: e38e74f5d1daef142a230e94e0d9c0c8
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic040.unity
+    guid: baa62a5bf5103e7448b6acdbbcc948bc
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic041.unity
+    guid: f2dedb922b190974d97c8204a8d19f8d
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic042.unity
+    guid: 69ad83cc60536214b8b648123377fc3e
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic043.unity
+    guid: 4b351414587342e4282cd012c12e4881
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic044.unity
+    guid: 46ece21fb1458344c8d1173d32977f62
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic045.unity
+    guid: b3bf612d41ed9014b933ed61b1849f51
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic046.unity
+    guid: ac65873f7ce1cc9499808c4d4756414b
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic047.unity
+    guid: 6da625e88669a7c43b09f214aab4fd34
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic048.unity
+    guid: 9dddd2390dff85641b26ae8d00a6eb4c
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic049.unity
+    guid: a4e2e5cec71da9040be645898211fe5e
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic050.unity
+    guid: b8328070d80c21945a33cd886a64696b
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic051.unity
+    guid: 9d8d0080918f26549a25a842d8ed5de2
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic052.unity
+    guid: 6ed488c7cede7dc40bcde91f6054a14e
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic053.unity
+    guid: 611ba72f8afba784893d9a0ac7961a32
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic054.unity
+    guid: 082c46ce968d03a4f8bc2697b372dc24
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic055.unity
+    guid: a43d56634b79d9843b12cd0235616c09
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic056.unity
+    guid: d3e9da9fca468254b8a6d11a3c26085f
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic057.unity
+    guid: d697e0b3f7276a14fbbcb8f21cb62029
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic058.unity
+    guid: b5974a98c7848c84d91db20cfd85cefb
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic059.unity
+    guid: 3a043548217cc574483f6c2293aa86a3
+  - enabled: 1
+    path: Assets/Scenes/AllClassic/Classic060Final.unity
+    guid: 55d876f5fde268b42ae7e5352ac9dea8
+  - enabled: 1
+    path: Assets/Scenes/Limitless01.unity
+    guid: 7a1ced60d944770468ca76ec1ee9e54a
+  m_configObjects: {}
